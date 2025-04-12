@@ -1,2 +1,6 @@
-# bioSite
-Repository for csd-340. This is the for project of biosite 
+# CSD 340 Web Development with HTML and CSS
+
+## Contributors
+
+- Darren Osier
+- Dan Zhu
